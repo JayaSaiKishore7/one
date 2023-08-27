@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://52.23.181.221:8081/repository/jaya/</url>
+		    <url>http://100.25.17.207:8081/repository/nexus/</url>
 		</repository>
   	</distributionManagement>
 	
